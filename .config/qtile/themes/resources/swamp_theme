@@ -1,0 +1,29 @@
+background : #2F3F37
+foreground : #D2FFFA
+cursorColor : #D2FFFA
+
+
+color 0     color 8     [Black]
+#0B1E14     #779898
+
+color 1     color 9     [Red]
+#684228     #B1411C
+
+color 2     color 10    [Green]
+#2C5C4B     #407A69
+
+color 3     color 11    [Yellow]
+#C87D3D     #ECBA72
+
+color 4     color 12    [Blue]
+#5F9A87     #87C8BA
+
+color 5     color 13    [Magenta]
+#46B434     #67CD43
+
+color 6     color 14    [Cyan]
+#3DC48D     #45EABB
+
+color 7     color 15    [White]
+#BAECE5     #D9FFFF
+
