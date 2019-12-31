@@ -1,0 +1,8 @@
+"" Color scheme
+Plug 'morhetz/gruvbox'
+
+"" tmux vim
+Plug 'tmux-plugins/vim-tmux'
+
+"" vim tmux integration
+Plug 'christoomey/vim-tmux-navigator'
